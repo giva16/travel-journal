@@ -48,7 +48,7 @@ export default [
   },
   {
     title: 'CN Tower',
-    location: 'Toronto, Canada',
+    location: 'Canada',
     googleMapsUrl: 'https://maps.app.goo.gl/83VUywgQJLzqdPUi6',
     startDate: '20 May, 2022',
     endDate: '25 May, 2022',
