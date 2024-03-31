@@ -10,6 +10,7 @@ body {
   min-width: 100vw;
   min-height: 100vh;
   font-family: 'Inter', sans-serif, 'Courier New', Courier, monospace;
+  overflow-x: hidden;
 }
 
 header {
