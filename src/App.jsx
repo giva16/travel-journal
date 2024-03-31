@@ -11,6 +11,7 @@ const App = () => {
     <>
       <Navbar />
       <main>
+        <h1 className='title'>Weclome to my travel journal!</h1>
         <div className='cards'>{cards}</div>
       </main>
     </>

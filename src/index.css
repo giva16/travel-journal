@@ -13,6 +13,11 @@ body {
   overflow-x: hidden;
 }
 
+.title {
+  text-align: center;
+  margin-top: 40px;
+}
+
 /* Navbar Component */
 header {
   width: 100%;
