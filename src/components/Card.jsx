@@ -13,7 +13,9 @@ const Card = ({ title, location, googleMapsUrl, startDate, endDate, description,
           <FontAwesomeIcon className='location-icon' icon={faLocationDot} />
           {location}
           <span className='card-map-link'>
-            <a href={googleMapsUrl}>View on Google Maps</a>
+            <a href={googleMapsUrl} target='_blank'>
+              View on Google Maps
+            </a>
           </span>
         </h3>
         <h4 className='card-date'>
